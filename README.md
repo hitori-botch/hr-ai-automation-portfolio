@@ -25,9 +25,9 @@
 |---|---|---|---|
 | 01 | [슬랙 업무 에이전트](projects/01-slack-agent.md) | 2026.10 ~ 운영 중 | 단독 기획·구현·운영 |
 | 02 | [팀 월간 성과 대시보드](projects/02-team-dashboard.md) | 2026.10 ~ 운영 중 | 단독 |
-| 03 | [위임 만료 사업장 자동 선별](projects/03-mandate-expiry.md) | 2026.09 ~ | — |
-| 04 | [판정 웹도구 · 4대보험 판정 MCP](projects/04-judgment-tools.md) | 2026.04 ~ 07 | 기획·구현·배포 |
-| 05 | [4대보험 환급 검토 파이프라인](projects/05-review-pipeline.md) | 2026.07 ~ | 기획·구현·검증·팀 배포 |
+| 03 | [위임 만료 사업장 자동 선별](projects/03-mandate-expiry.md) | 2026.09 ~ | 단독 설계·구현·운영 |
+| 04 | [판정 웹도구 · 4대보험 판정 MCP](projects/04-judgment-tools.md) | 2026.04 ~ 07 | 단독 기획·구현·배포 |
+| 05 | [4대보험 환급 검토 파이프라인](projects/05-review-pipeline.md) | 2026.07 ~ | 단독 기획·구현·검증·팀 배포 |
 | 06 | [사내 ERP 4대보험 모듈 요건 기획](projects/06-erp-requirements.md) | — | 기획·요구정의·로직 명세·검증 (구현은 사내 개발팀) |
 | 07 | [그 밖의 도구 4종](projects/07-other-tools.md) | — | 도구별로 적음 |
 
